@@ -1,6 +1,4 @@
-# SmartBrain - v2
-Final project for Udemy course
+Course Summarizer Front End
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Deployed on Heroku
+Previously locally stored pdf documents
